@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi, I'm manya 💖
 
-<!--
-**Manya-sharma-08/Manya-sharma-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✦ **A LITTLE ABOUT ME**
 
-Here are some ideas to get you started:
+I'm fond of doing things my way, not just making something work, but making it feel right.
+I like finding simple, elegant approaches to problems and putting my own touch into whatever I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+✦ **CURRENTLY LEARNING**
+
+- Python
+- Data Structhures & Algorithms
+- Web Development
+- DBMS
+- NumPy & Pandas
+
+***
+
+✦ **Tools & Technologies**
+- Python
+- MySQL
+- NumPy
+- Pandas
+- HTML & CSS
+-  C 
+-  VS Code
+- Microsoft Excel
+
+  ***
+
+✦ **What You'll Find Here**
+
+College projects, coding experiments, practice programs, and random things I build while learning
+
+***
+
+✦ **GOAL**
+
+Keep learning, keep building, and eventually make something worthy and useful, like my very own indie game!!
+
+***
+
+✦ **FUN FACTS**
+
+- I am a hobby manga artist and a story writer as well!!
+- I like making characher sketches and creative writing
+- I like elegant and whimsical things
+- I want to make my own indie game someday
